@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Patched AtlasOS Playbook
 
 A patched version of the AtlasOS Playbook designed to run on all major Windows 11 versions.
@@ -17,5 +16,4 @@ Make sure you have a backup and understand what the playbook changes before runn
 
 Created by **Team RSH**
 =======
-# AtlasOS-0.5.0-PlayBook-Patched
->>>>>>> ade8e94a687402238fabb99dd6a904fe7ca92694
+
